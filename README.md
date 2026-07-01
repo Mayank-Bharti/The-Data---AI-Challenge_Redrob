@@ -10,6 +10,10 @@ Instead of relying on simple keyword matching or slow, expensive LLM API calls, 
 
 To strictly beat the 5-minute compute constraint while maintaining deep-learning accuracy, the architecture is decoupled into two distinct stages:
 
+### 🧪 Live Sandbox Demo (Google Colab)
+Want to see the system rank 43,000+ candidates in under 5 seconds without installing anything locally? 
+**🔗 [Run the HDE-CM Live Inference Engine on Google Colab Here]((Insert your Google Colab Link Here))**
+
 ### Stage 1: Offline Precomputation & Truth-Check (`precompute.py`)
 
 - **The Filter:** Instantly parses 100,000 raw JSON profiles. Drops chronologically impossible "Honeypot" profiles (e.g., claiming 10 YoE but only having 12 months of actual job history).
