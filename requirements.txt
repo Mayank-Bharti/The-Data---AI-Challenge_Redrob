@@ -1,0 +1,5 @@
+sentence-transformers
+numpy
+scipy
+pandas
+tqdm
