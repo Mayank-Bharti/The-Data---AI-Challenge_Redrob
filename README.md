@@ -1,8 +1,5 @@
 # The HDE-CM Architecture: Hybrid Dual-Encoder with Career Momentum
 
-**Submission for The Data & AI Challenge: Redrob**
-**Author:** Mayank Bharti
-
 ## 🚀 Overview
 
 This repository contains the source code for the **HDE-CM Architecture**, a highly optimized, dual-stage semantic ranking engine built to evaluate and rank 100,000 candidate profiles for a Founding Senior AI Engineer role.
