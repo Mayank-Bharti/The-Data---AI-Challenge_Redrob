@@ -37,21 +37,26 @@ To strictly beat the 5-minute compute constraint while maintaining deep-learning
 *   **NumPy:** High-speed C-optimized matrix multiplication (Cosine Similarity) in RAM.
 *   **Pickle & JSONL:** Lightweight local data serialization for instant read/write access.
 
-## 💻 How to Run
+## 💻 How to Run & Download Resources
+
+Because GitHub has a strict 100MB file limit, the massive dataset and precomputed vector database have been safely hosted on Google Drive. 
+
+**🔗 [Download the `.pkl` and `.jsonl` Dataset files from Google Drive Here]((Insert your Google Drive link here))**
 
 1. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-2. **Stage 1 - Precompute (Offline):**
-   *Ensure you have the raw `datasets/candidates.jsonl` file.*
+2. **(Optional) Stage 1 - Precompute (Offline):**
+   *If you want to generate the embeddings from scratch, place the `candidates.jsonl` file in the `/datasets` folder.*
    ```bash
    python precompute.py
    ```
    *This generates the `precomputed_features.pkl` file.*
 
 3. **Stage 2 - Rank & Output (Online):**
+   *If you downloaded the `.pkl` file from Google Drive, place it in the root directory and you can instantly run the ranking engine.*
    ```bash
    python ranker.py
    ```
