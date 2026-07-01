@@ -12,7 +12,7 @@ To strictly beat the 5-minute compute constraint while maintaining deep-learning
 
 ### 🧪 Live Sandbox Demo (Google Colab)
 Want to see the system rank 43,000+ candidates in under 5 seconds without installing anything locally? 
-**🔗 [Run the HDE-CM Live Inference Engine on Google Colab Here]([https://colab.research.google.com/drive/1QKydgpojM4Pj8BpdtNjeomtb9fllfypN?authuser=2](https://colab.research.google.com/drive/1QKydgpojM4Pj8BpdtNjeomtb9fllfypN?usp=sharing))**
+**🔗 [Run the HDE-CM Live Inference Engine on Google Colab Here](https://colab.research.google.com/drive/1QKydgpojM4Pj8BpdtNjeomtb9fllfypN?usp=sharing)**
 
 ### Stage 1: Offline Precomputation & Truth-Check (`precompute.py`)
 
