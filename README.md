@@ -6,6 +6,17 @@ This repository contains the source code for the **HDE-CM Architecture**, a high
 
 Instead of relying on simple keyword matching or slow, expensive LLM API calls, this system leverages a local **Deep Learning Neural Network (Sentence Transformers)** coupled with custom **Career Momentum (CM) Heuristics** to execute enterprise-grade semantic search in **under 6 seconds**.
 
+## 📑 Table of Contents
+
+- [🚀 Overview](#-overview)
+- [🧠 Core Architecture](#-core-architecture)
+  - [🧪 Live Sandbox Demo (Google Colab)](#-live-sandbox-demo-google-colab)
+  - [Stage 1: Offline Precomputation & Truth-Check](#stage-1-offline-precomputation--truth-check-precomputepy)
+  - [Stage 2: Online Ranking Engine](#stage-2-online-ranking-engine-rankerpy)
+- [⚡ Performance Metrics](#-performance-metrics)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [💻 How to Run & Download Resources](#-how-to-run--download-resources)
+
 ## 🧠 Core Architecture
 
 To strictly beat the 5-minute compute constraint while maintaining deep-learning accuracy, the architecture is decoupled into two distinct stages:
