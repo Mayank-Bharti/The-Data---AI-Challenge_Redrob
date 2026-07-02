@@ -10,6 +10,7 @@
 - [⚡ Performance Metrics](#-performance-metrics)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [💻 How to Run & Download Resources](#-how-to-run--download-resources)
+- [Demo Video](#-demo-video)
 
 ## 🚀 Overview
 
