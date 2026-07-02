@@ -1,11 +1,5 @@
 # The HDE-CM Architecture: Hybrid Dual-Encoder with Career Momentum
 
-## 🚀 Overview
-
-This repository contains the source code for the **HDE-CM Architecture**, a highly optimized, dual-stage semantic ranking engine built to evaluate and rank 100,000 candidate profiles for a Founding Senior AI Engineer role.
-
-Instead of relying on simple keyword matching or slow, expensive LLM API calls, this system leverages a local **Deep Learning Neural Network (Sentence Transformers)** coupled with custom **Career Momentum (CM) Heuristics** to execute enterprise-grade semantic search in **under 6 seconds**.
-
 ## 📑 Table of Contents
 
 - [🚀 Overview](#-overview)
@@ -16,6 +10,13 @@ Instead of relying on simple keyword matching or slow, expensive LLM API calls, 
 - [⚡ Performance Metrics](#-performance-metrics)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [💻 How to Run & Download Resources](#-how-to-run--download-resources)
+
+## 🚀 Overview
+
+This repository contains the source code for the **HDE-CM Architecture**, a highly optimized, dual-stage semantic ranking engine built to evaluate and rank 100,000 candidate profiles for a Founding Senior AI Engineer role.
+
+Instead of relying on simple keyword matching or slow, expensive LLM API calls, this system leverages a local **Deep Learning Neural Network (Sentence Transformers)** coupled with custom **Career Momentum (CM) Heuristics** to execute enterprise-grade semantic search in **under 6 seconds**.
+
 
 ## 🧠 Core Architecture
 
