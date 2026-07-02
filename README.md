@@ -77,3 +77,6 @@ _(Note: The `precomputed_features.pkl` file is a Python "Pickle" database. It co
    ```bash
    python datasets/validate_submission.py The_Crimson_Codex.csv
    ```
+
+## Demo Video
+### [[Click to see the working here:]](https://drive.google.com/drive/folders/10Qayu91U9UZm8Q4jB_08zLDBcKfpg78n?usp=sharing)
