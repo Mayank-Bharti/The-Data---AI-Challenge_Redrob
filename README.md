@@ -10,7 +10,7 @@
 - [⚡ Performance Metrics](#-performance-metrics)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [💻 How to Run & Download Resources](#-how-to-run--download-resources)
-- [Demo Video](#-demo-video)
+- [🎥 Demo Video](#-demo-video)
 
 ## 🚀 Overview
 
@@ -91,5 +91,5 @@ Want to see the system rank 43,000+ candidates in under 5 seconds without instal
    python datasets/validate_submission.py The_Crimson_Codex.csv
    ```
 
-## Demo Video
+## 🎥 Demo Video
 ### [Click to see the working here:](https://drive.google.com/drive/folders/10Qayu91U9UZm8Q4jB_08zLDBcKfpg78n?usp=sharing)
